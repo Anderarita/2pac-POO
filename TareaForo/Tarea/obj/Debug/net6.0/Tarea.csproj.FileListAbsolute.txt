@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\bin\Debug\net6.0\Tarea.exe
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\bin\Debug\net6.0\Tarea.deps.json
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\bin\Debug\net6.0\Tarea.runtimeconfig.json
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\bin\Debug\net6.0\Tarea.dll
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\bin\Debug\net6.0\Tarea.pdb
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.dll
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\refint\Tarea.dll
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.pdb
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\Tarea.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\Tarea\obj\Debug\net6.0\ref\Tarea.dll

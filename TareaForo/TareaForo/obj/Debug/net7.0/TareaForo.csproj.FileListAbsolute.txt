@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\TareaForo\obj\Debug\net7.0\TareaForo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\TareaForo\obj\Debug\net7.0\TareaForo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\TareaForo\obj\Debug\net7.0\TareaForo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\TareaForo\obj\Debug\net7.0\TareaForo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\POOPA2-2023\UNIDAD I\TareaForo\TareaForo\obj\Debug\net7.0\TareaForo.csproj.CoreCompileInputs.cache
